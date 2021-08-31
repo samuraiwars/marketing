@@ -88,6 +88,7 @@ h3.team-name {
 a.read-more {
   color:#1633d8 !important;
   font-size:0.7em;
+  cursor: pointer;
 }
 
 .blockquote {
