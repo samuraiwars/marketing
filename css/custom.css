@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Long+Cang&family=Zhi+Mang+Xing&family=Josefin+Sans:wght@400&display=swap');
+
+
+
+
+.timeline .column .title  h1.date {
+  color:rgb(0,0,0,0.2);
+  font-size:60px;
+}
+.timeline .column .description {
+  border:none;
+}
+.timeline .column li {
+  font-size:1.2em;
+  list-style-type:disc;
+}
+.timeline {
+    padding: 20px 0px;
+    width: 95%;
+    margin-left: 5%;
+    margin-bottom: 40px;
+}
+
+.social svg {
+  color:#0a0b4f;
+}
+
+.hero-caption h1, h1, .hero-caption h1 span, h1 span {
+  font-family: 'Long Cang', cursive !important;
+  letter-spacing:0px;
+  font-size:72px;
+}
+
+.hero-unit, html, body {
+  background-color:#f0efd8;
+  background-image:none;
+  color:black;
+}
+
+p, h1, h2 {
+  color:black;
+  font-family:"Josefin Sans";
+}
+p {
+  font-size:1.4em;
+  line-height:1.3em;
+}
+
+h2{
+  font-weight:bold;
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: black;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+hr {
+  margin: 45px 0;
+}
+
+.character-modal .modal-dialog {
+  max-width:800px;
+}
+
+.character-modal .modal-content {
+    background: linear-gradient(rgba(255,255,255, 0.9), rgba(240, 239, 216, 0.9));
+}
+.character-modal .modal-content p{
+  font-size:1.1em;
+}
+.character-modal .modal-title {
+  font-family: 'Long Cang', cursive !important;
+  font-weight:bold;
+  font-size:3em;
+}
+.character-modal b {
+  color: #d732a2;
+}
+
+h3.team-name {
+  font-family: 'Long Cang', cursive !important;
+  font-weight:bold;
+  font-size:3em;
+}
+
+a.read-more {
+  color:#1633d8 !important;
+  font-size:0.7em;
+}
+
+.blockquote {
+  font-weight:bold;
+}
+
+.scrolled.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
