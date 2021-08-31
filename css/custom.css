@@ -100,3 +100,6 @@ a.read-more {
     color: white;
     font-weight:bold;
 }
+h1 {
+  line-height:0.7em;
+}
