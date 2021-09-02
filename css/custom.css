@@ -36,6 +36,9 @@
   background-color:#f0efd8;
   background-image:none;
   color:black;
+    background: #FFEFBA;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to right, #f8f3e1, #FFEFBA);
 }
 
 p, h1, h2 {
